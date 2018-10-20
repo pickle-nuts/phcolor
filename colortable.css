@@ -1,0 +1,15 @@
+*{
+	background-color: #c4c4c4;
+	font-family: 'Lato', sans-serif; 
+}
+
+h1{
+	color: #515151;
+}
+
+p{
+	color: #ffffff;
+	margin: 0px;
+	padding: 5px;
+	border-collapse: collapse;
+}
